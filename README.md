@@ -11,7 +11,7 @@ Now I chose Mechatronics as a Master to represent better my desire for coding. I
 - 🌱 I’m currently still trying to improve my Python skills. However I'd like to learn Java Scriptish Languages as well.
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Python, -->
-- 💬 Ask me about Unittesting, Python, Reinforcement Learning
+- 💬 Ask me about: Unittesting, Python, Reinforcement Learning
 - 📫 How to reach me: georgpernice@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have roller skates from the 80s
