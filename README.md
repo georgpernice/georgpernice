@@ -7,7 +7,7 @@ Now I chose Mechatronics as a Master to represent better my desire for coding. I
 **georgpernice/georgpernice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently studying Mechatronix Master @ KIT in Karlsruhe.
+- 🔭 I’m currently enrolled in Mechatronics Master at KIT in Karlsruhe and looking for a coding student job.
 - 🌱 I’m currently still trying to improve my Python skills. However I'd like to learn Java Scriptish Languages as well.
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Python, -->
