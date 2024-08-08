@@ -10,7 +10,7 @@ I also enjoy playing music on piano/guitar/violin or going into nature.
 **georgpernice/georgpernice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently looking for a coding student job.
+- 🔭 I’m currently doing a student job in AI development with Python.
 <!-- - 👯 I’m looking to collaborate on 
 - 🌱 I’m currently still trying to improve my Python skills. However I'd like to learn Java Scriptish Languages as well.
 
