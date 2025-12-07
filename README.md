@@ -17,5 +17,5 @@ I also enjoy playing music on piano/guitar/violin or going into nature.
 - 🤔 I’m looking for help with Python, -->
 - 💬 Ask me about: Unittesting, Python, Reinforcement Learning
 - 📫 How to reach me: georgpernice@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: his highness/his majesty or he/him or his playfulness/his playfulness
 - ⚡ Fun fact: I have roller skates from the 80s
